@@ -76,6 +76,7 @@ class Counter {
    */
   countDown() {
     // ✨ implement
+    let test = null;
   }
 }
 
