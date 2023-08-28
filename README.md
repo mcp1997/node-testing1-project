@@ -14,7 +14,6 @@ Your assignment page on Canvas should contain instructions for submitting this p
 
 #### Notes
 
-https://stackoverflow.com/questions/23740734/logout-and-login-as-another-user-git-bash
 - Run `index.js` with Nodemon executing `npm run dev`.
 - Run tests locally with Jest executing `npm test`.
 - You can add console.logs to `index.js` to manually test your code. (e.g. `console.log(car.drive(10));`).
